@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>VideoPopOut</title>
-</head>
-<body>
-  <h1>VideoPopOut</h1>
+ <h1>VideoPopOut</h1>
 
   <p>The VideoPopOut script allows you to map the middle mouse button to the keyboard keys Ctrl+Shift+] to automatically pop a video in Firefox out of the tab, creating a borderless, moveable, and scalable video window that always stays on top regardless of the active tab.</p>
 
@@ -47,5 +41,3 @@
 
   <h2>Notes</h2>
   <p>Refer to the included `notes.txt` file for additional information and troubleshooting tips.</p>
-</body>
-</html>
