@@ -1,0 +1,17 @@
+build/VideoPopOut_win/Analysis-00.toc
+build/VideoPopOut_win/base_library.zip
+build/VideoPopOut_win/EXE-00.toc
+build/VideoPopOut_win/PKG-00.toc
+build/VideoPopOut_win/PYZ-00.pyz
+build/VideoPopOut_win/PYZ-00.toc
+build/VideoPopOut_win/VideoPopOut_win.exe.manifest
+build/VideoPopOut_win/VideoPopOut_win.pkg
+build/VideoPopOut_win/warn-VideoPopOut_win.txt
+build/VideoPopOut_win/xref-VideoPopOut_win.html
+build/VideoPopOut_win/localpycs/pyimod01_archive.pyc
+build/VideoPopOut_win/localpycs/pyimod02_importers.pyc
+build/VideoPopOut_win/localpycs/pyimod03_ctypes.pyc
+build/VideoPopOut_win/localpycs/pyimod04_pywin32.pyc
+build/VideoPopOut_win/localpycs/struct.pyc
+dist/VideoPopOut_win.exe
+VideoPopOut_win.spec
